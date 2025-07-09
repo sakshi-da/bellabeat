@@ -1,9 +1,10 @@
 # Bellabeat Case study
  <br>
-### Introduction  <br>
+ <br>
+ Introduction  <br>
 Bellabeat, a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company.
  <br>
-### Buisness task <br>
+ <br> Buisness task <br>
 Insight of how consumers are using their smart devices. <br>
 The insights to help guide marketing strategy for the company. <br>
 Data source: <br>
