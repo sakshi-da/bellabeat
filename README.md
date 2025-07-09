@@ -1,6 +1,9 @@
 # Bellabeat Case study
  <br>
  <br>
+ Google data analytics specialization capstone project
+ <br>
+ <br>
  Introduction  <br>
 Bellabeat, a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company.
  <br>
